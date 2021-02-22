@@ -1,0 +1,1 @@
+const weight = +prompt("Введите ваш вес в кг");
