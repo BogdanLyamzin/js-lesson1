@@ -10,6 +10,8 @@ const nullVar = null;
 
 const undefinedVar = undefined;
 
+let user;
+
 console.log(typeof numberVar1);
 console.log(typeof numberVar2);
 console.log(typeof stringVar);
@@ -17,3 +19,4 @@ console.log(typeof booleanVar1);
 console.log(typeof booleanVar2);
 console.log(typeof undefinedVar);
 console.log(typeof nullVar);
+console.log(typeof user)

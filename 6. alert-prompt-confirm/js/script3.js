@@ -1,3 +1,4 @@
 const weight = prompt("Введите ваш вес в кг");
-const poundWeight = weight / 0.453;
-console.log(poundWeight);
+console.log(weight);
+console.log(typeof weight);
+const userBirthday = prompt("Введите вашу дату рождения", "дд.мм.гггг")
